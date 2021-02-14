@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 900 !important;
 }
 
-#front-ul, #back-ul, #tools-ul {
+/* #front-ul, #back-ul, #tools-ul {
     display: block;
     margin-left: 10px;
     margin-right: 10px;
@@ -67,4 +67,4 @@ h1, h2, h3, h4, h5, h6 {
 
   #front-ul, #back-ul, #tools-ul {
     cursor: pointer;
-  }
+  } */
